@@ -6,5 +6,5 @@ public static void main(String[] args) {
 
     // added some more comments on new commit
 
-    // release version 1.0.0
+    // release version 1.0.1
 }

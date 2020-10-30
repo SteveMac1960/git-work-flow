@@ -5,3 +5,5 @@ No one ever reads the readme file
 changes on develop branch
 
 Adding a new feature!
+
+Release notes for 1.0.1
